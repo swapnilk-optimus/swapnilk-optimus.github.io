@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "the happy times",
+    "description": "",
+    "home_page_url": "https://swapnilk-optimus.github.io/swapnilk-optimus.github.io",
+    "feed_url": "https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Swapnil"
+    },
+    "items": [
+        {
+            "id": "https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/post-1.html",
+            "url": "https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/post-1.html",
+            "title": "post 1",
+            "summary": "hello guys!",
+            "content_html": "<p>hello guys!</p>",
+            "author": {
+                "name": "Swapnil"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-12T16:47:35+05:30",
+            "date_modified": "2020-08-12T16:47:35+05:30"
+        }
+    ]
+}

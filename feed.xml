@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>the happy times</title>
+    <link href="https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/feed.xml" rel="self" />
+    <link href="https://swapnilk-optimus.github.io/swapnilk-optimus.github.io" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Swapnil</name>
+    </author>
+    <id>https://swapnilk-optimus.github.io/swapnilk-optimus.github.io</id>
+
+    <entry>
+        <title>post 1</title>
+        <author>
+            <name>Swapnil</name>
+        </author>
+        <link href="https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/post-1.html"/>
+        <id>https://swapnilk-optimus.github.io/swapnilk-optimus.github.io/post-1.html</id>
+
+        <updated>2020-08-12T16:47:34+05:30</updated>
+            <summary>
+                <![CDATA[
+                    hello guys!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello guys!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
